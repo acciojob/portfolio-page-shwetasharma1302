@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+h1{
+	text-align :center;
+	background-color: pink
+}
+
+img{
+	align: center;
+	width: 500px
+}
+
