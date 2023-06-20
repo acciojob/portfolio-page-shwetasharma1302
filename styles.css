@@ -5,8 +5,24 @@ h1{
 	background-color: pink
 }
 
-img{
-	align: center;
+#image{
+	margin-left: auto;
+  margin-right: auto;
+	
 	width: 500px
 }
 
+a{
+	color: black;
+	background-color: greenyellow
+}
+
+#skills{
+	background-color: grey;
+	color: white;
+}
+
+#projects{
+	background-color: lightcyan;
+	color: black;
+}
